@@ -1,0 +1,2 @@
+cur="$(pwd)"
+echo "$cur"
