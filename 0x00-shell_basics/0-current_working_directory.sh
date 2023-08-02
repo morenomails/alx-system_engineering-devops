@@ -1,2 +1,2 @@
-cur="$(pwd)"
-echo "$cur"
+#!/bin/bash
+echo "$(pwd)"
