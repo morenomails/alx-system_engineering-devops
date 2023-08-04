@@ -2,3 +2,4 @@
 read name
 echo "#!/bin/bash" > $name
 chmod +x $name
+vi $name
